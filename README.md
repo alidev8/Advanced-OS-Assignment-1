@@ -41,7 +41,7 @@ python3 t3/task3.py
 
 The system logs login attempts in the following format:
 
-timestamp - event - user
+timestamp - event - user.
 
 Example:
 1774230297 - LOGIN FAILED - user1
